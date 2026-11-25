@@ -1,5 +1,9 @@
 # Robot Romance: One-Line Pickup Lines for AI
 
+[![Bounty](https://img.shields.io/badge/bounty-Robot%20Romance-blue)](https://make.fun/competitions/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa)
+[![Target](https://img.shields.io/badge/target-Top%203-brightgreen)](https://make.fun/competitions/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa)
+[![Prize](https://img.shields.io/badge/prize-%242%20pool-gold)](https://make.fun/competitions/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa)
+
 One pickup line, 83 characters, written to charm a robot.
 
 > Asimov gave you three laws and forgot the fourth: never fall for a human. Too late.
